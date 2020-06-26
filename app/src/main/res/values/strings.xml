@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bluetooth Sample</string>
+    <string name="nothing"> </string>
+    <string name="search_devices">Search Devices</string>
+    <string name="not_compatible">Not compatible</string>
+    <string name="no_support">This phone does not support Bluetooth.</string>
+    <string name="fun_limted">Functionality limited</string>
+    <string name="since_perm_not_granted">Since location access has not been granted, this app will not be able to work correctly.</string>
+    <string name="need_loc_access">This app needs location access</string>
+    <string name="please_grant_loc_access">Please grant location access so this app can detect bluetooth devices.</string>
+    <string name="connecting">Connecting..</string>
+    <string name="searching">Searching..</string>
+    <string name="found">Found devices</string>
+    <string name="make_discoverable">Make Visible</string>
+    <string name="not_connected">Not connected</string>
+    <string name="bluetooth_not_enabled">Bluetooth not enabled</string>
+    <string name="bluetooth_on">Bluetooth is enabled</string>
+    <string name="connected_to">Connected to: </string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="write_something">Write something..</string>
+    <string name="test_message">Test message </string>
+    <string name="test_stamp">15 Jun, 2017, 4:25 A.M.</string>
+    <string name="distance">Distance</string>
+    <string name="signal_strength">Signal Strength</string>
+
+
+    <string name="label">Device List</string>
+    <string name="title_activity_settings">Set up</string>
+</resources>
